@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:watchs_app/screens/home_screen/home_screen.dart';
 
+import 'models/watch.dart';
+import 'screens/product_details/product_details_screen.dart';
+
 void main() {
   runApp(const MyApp());
 }

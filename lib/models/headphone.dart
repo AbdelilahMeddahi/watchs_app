@@ -5,7 +5,7 @@ class Headphone{
   Headphone({
     this.headphonePrice = '',
     this.color = Colors.blue,
-    this.image = "assets/Headphones/1.png",
+    this.image = "assets/Headphones/7.png",
   });
 
   String headphonePrice;
